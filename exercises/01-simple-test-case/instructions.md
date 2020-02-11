@@ -1,6 +1,6 @@
 # Exercise 1
 
-In this exercise, you will implement and execute basic test cases with the help of the standard `testing` package. Later, you will use the external package Testify to simlify the assertion definitions.
+In this exercise, you will implement and execute basic test cases with the help of the standard `testing` package. Later, you will use the external package Testify to simlify the assertion definitions. Use the IDE or editor of your choice.
 
 1. Navigate to the directory `start`. You will find an existing Go project.
 2. Inspect both Go files `main.go` and `hello.go`.
