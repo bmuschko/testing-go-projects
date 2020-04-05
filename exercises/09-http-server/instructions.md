@@ -1,6 +1,6 @@
 # Exercise 9
 
-In this exercise, you will the HTTP test utilities available in Go to emulate a response from a real-world HTTP server. With the experience gained, you'll be able to confidently write unit tests for production source code that would usually require an external endpoint.
+In this exercise, you will use the HTTP test utilities available in Go to emulate a response from a real-world HTTP server. With the experience gained, you'll be able to confidently write unit tests for production source code that would usually require an external endpoint.
 
 1. Navigate to the directory `start`. You will find an existing Go project.
 2. Inspect the functionality of the project.
