@@ -8,6 +8,5 @@ type PurchaseService struct {
 
 func (p PurchaseService) CheckoutShoppingCart(totalAmount int, message string) error {
 	fmt.Printf("Charging payment method with total amount of %d\n", totalAmount)
-	p.notifier.SendMessage(message)
-	return nil
+	return p.notifier.SendMessage(message)
 }
